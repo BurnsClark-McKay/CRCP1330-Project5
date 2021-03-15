@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 310.0, 152.0, 640.0, 480.0 ],
+		"rect" : [ 445.0, 143.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -41,11 +41,12 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-4",
+					"linecount" : 5,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 158.0, 197.0, 150.0, 20.0 ],
-					"text" : "ws4tfrn"
+					"patching_rect" : [ 5.0, 78.0, 202.0, 75.0 ],
+					"text" : "To-do:\n5 borrowed pieces of music\n5 instances of groove~\none instance of waveform~\nchange playback speed of one thing"
 				}
 
 			}
